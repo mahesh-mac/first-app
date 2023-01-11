@@ -1,2 +1,1 @@
-This is the first version of my app
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mahesh-mac/first-app.git/master?labpath=python1.ipynb)
+pandas==0.25.1
